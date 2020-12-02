@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "504716741291",
+    "firebase_url": "https://bdimuds2020.firebaseio.com",
+    "project_id": "bdimuds2020",
+    "storage_bucket": "bdimuds2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504716741291:android:87f84e148b5ab68a46c5ee",
+        "android_client_info": {
+          "package_name": "com.imuds.imudsbd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504716741291-71ftjrc45oppb0tvrcsoj6ddublvtujp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCA0lQXM-1TggOSMxebvjbnYxS_GF90bQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504716741291-71ftjrc45oppb0tvrcsoj6ddublvtujp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
